@@ -1,0 +1,5 @@
+**/gen_*
+venv/**/*
+.idea/
+*.iml
+**/__pycache__
